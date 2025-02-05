@@ -1,0 +1,25 @@
+Class,Solvent,MW (g/mol),Kd 20C,Kd 40C,Kd 60C,SMILES
+Alcohol,1-Butanol,74.12,0.92,1.03,1.13,CCCCO
+Alcohol,1-Hexanol,102.17,0.37,0.47,0.48,CCCCCCO
+Alcohol,2-Hexanol,102.17,0.35,0.41,0.47,CCCCC(C)O
+Alcohol,4-Methyl-2-pentanol,102.17,0.3,0.41,0.44,CC(C)CC(C)O
+Alcohol,1-Heptanol,116.2,0.22,0.29,0.34,CCCCCCCO
+Alcohol,1-Octanol,130.23,0.22,0.27,0.3,CCCCCCCCO
+Alcohol,1-Nonanol,144.25,0.14,0.2,0.2,CCCCCCCCCO
+Alcohol,"3,7-Dimethyl-1-octanol",158.28,0.11,0.17,0.2,CC(C)CCCC(C)CCO
+Alcohol,Oleyl alcohol,268.5,0.07,0.07,0.11,CCCCCCCC/C=C\CCCCCCCCO
+Ester,Ethyl acetate,88.11,0.19,0.2,0.22,CCOC(=O)C
+Ester,Isopropyl acetate,102.13,0.1,0.11,0.13,CC(C)COC(=O)C
+Ester,sec-Butyl acetate,116.16,0.04,0.08,0.17,CCC(C)OC(=O)C
+Ester,Isobutyl acetate,116.16,0.05,0.07,0.07,CC(C)OC(=O)C
+Ester,n-Pentyl acetate,130.18,0.04,0.06,0.06,CCCCCOC(=O)C
+Ester,Butyl butyrate,144.21,0.03,0.04,0.04,CCCCOC(=O)CCC
+Ester,n-Hexyl acetate,144.21,0.03,0.04,0.05,CCCCCCOC(=O)C
+Ester,Dibutyl oxalate,202.25,0.01,0.02,0.04,CCCCOC(=O)C(=O)OCCCC
+Ester,Diethyl adipate,202.25,0.03,0.07,0.1,CCOC(=O)CCCCC(=O)OCC
+Ester,Isopropyl myristate,270.5,0.02,0.05,0.13,CCCCCCCCCCCCCC(=O)OC(C)C
+Hydrocarbon,Toluene,92.14,0.01,0.02,0.02,CC1=CC=CC=C1
+Hydrocarbon,Methylcycohexane,98.19,0.005,0.01,0.05,CC1CCCCC1
+Hydrocarbon,tert-Butylcyclohexane,140.27,0.01,0.02,0.11,CC(C)(C)C1CCCCC1
+Hydrocarbon,Dodecane,170.33,0.03,0.09,0.05,CCCCCCCCCCCC
+Hydrocarbon,Hexadecane,226.44,0.03,0.08,0.1,CCCCCCCCCCCCCCCC

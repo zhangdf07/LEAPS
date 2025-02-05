@@ -1,0 +1,8 @@
+Solvent,MW (g/mol),Kd 20C,SMILES
+2-Methyl-1-butanol,88.15,0.62,CCC(C)CO
+3-Methyl-1-butanol,88.15,0.6,CC(C)CCO
+3-Pentanol,88.15,0.52,CCC(CC)O
+2-Ethyl-1-butanol,102.17,0.35,CCC(CC)CO
+3-Hexanol,102.17,0.32,CCCC(CC)O
+2-Cyclohexylethanol,128.22,0.35,C1CCC(CC1)CCO
+"2-Ethyl-1,3-hexanediol",146.23,0.35,CCCC(C(CC)CO)O
