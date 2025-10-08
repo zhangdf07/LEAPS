@@ -23,11 +23,13 @@ Final input SMILES representations are:  ['CCCCO', 'CCCCCCO', 'CCC(C)CO', 'CCCC(
 
 Current compounds with experimental validations:
 
-1. Diol: 2,3-butanediol (2,3-BDO). Publication: Ind. Eng. Chem. Res. 2025, 64, 32, 15790–15799 (https://doi.org/10.1021/acs.iecr.5c01569)
-          
+1. Diol: 2,3-butanediol (2,3-BDO). Related publications: [1] Ind. Eng. Chem. Res. 2025, 64, 32, 15790–15799 (https://doi.org/10.1021/acs.iecr.5c01569) [2] Chem Bio Eng. 2025, 2, 4, 210–228 (https://pubs.acs.org/doi/10.1021/cbe.4c00170)
+
    Details:
        - Code_ML_screening.ipynb: Codes containing data processing, ML parameterization, solvent screening, and visualization
+       
        - CSV files: The DFT comptuted data and experimental data for validation.
+       
        - JSON and PKL files: The parameterized model and parameters ready for prediction
 
 2. Long-chain fatty acid: under investigation.

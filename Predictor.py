@@ -64,7 +64,7 @@ def main():
             else:
                 #raise ValueError("Input cannot be covnerted to SMILES.")
                 input_failed.append(sol)
-    print('Final input SMILES representations are: ', input_smi )
+    print('Final valid input SMILES: ', input_smi )
     
     # Compute result
     if args.target =='2,3-butanediol':
@@ -85,7 +85,7 @@ def main():
         fitted_a, fitted_b = 0.057, 0.021
         sim = np.round( fitted_a * sim + fitted_b, 3 )
         
-        print( '========= Predicted result (Kd, Input) ========' )
+        print( '========= Predicted results (Kd, Input) ========' )
         for raw, smi, result, in zip(input_raw, input_smi, sim):
             print( str(result).ljust(6), raw )
         #print( '========= Predicted result (Kd, Input) ========' )
