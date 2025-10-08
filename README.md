@@ -4,6 +4,8 @@ LEAPS: Liquid–Liquid Extraction Adaptive Predictor and Screener for biomass se
 
 This project aims to develop fast-screening tools for identifying solvent candidates in the liquid-liquid extraction of biomass.
 
+![An overall of the workflow](./TOC.png)
+
 Current biomass compounds:
 
 1. Diol: 2,3-butanediol (2,3-BDO). Publication: Ind. Eng. Chem. Res. 2025, 64, 32, 15790–15799 (https://doi.org/10.1021/acs.iecr.5c01569)
